@@ -1,0 +1,6 @@
+Produto,Peso
+Conta corrente,1
+Leasing,6.66
+Emprestimo consignado,3
+Safrapay,9
+CDB Super,7.4
